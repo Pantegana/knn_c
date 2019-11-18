@@ -1,2 +1,3 @@
 # knn_c
-Knn implementation in C
+
+An implementation of the KNN algorithm in C, just tome code I wrote as an excercise.
