@@ -66,5 +66,5 @@ double euclidean(uint8_t* point_a, uint8_t* point_b, int size){
         val += pow((point_a[i] - point_b[i]), 2);
     }
     
-    return val;
+    return sqrt(val);
 }
